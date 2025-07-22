@@ -1,0 +1,30 @@
+# Core ML Framework
+torch>=2.0.1
+torchvision>=0.15.2
+
+# Quantum & QASM
+qiskit>=1.0.2
+qiskit-aer>=0.13.1
+
+# Math & Symbolics
+numpy>=1.24.4
+scipy>=1.11.1
+sympy>=1.12
+
+# Hashing & Compression
+mmh3>=3.1.0
+zlib-ng>=2.0.7
+
+# Logging, Metrics, CLI
+tqdm>=4.66.1
+loguru>=0.7.2
+
+# Plotting & Analysis
+matplotlib>=3.7.2
+seaborn>=0.12.2
+
+# Optional Dev Tools
+pyyaml>=6.0.1
+black>=23.7.0
+isort>=5.12.0
+pytest>=7.4.0
