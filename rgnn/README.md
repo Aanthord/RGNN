@@ -20,8 +20,8 @@ This system bridges classical machine learning with symbolic reasoning and recur
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/rgnn_project.git
-cd rgnn_project
+git clone https://github.com/aanthord/rgnn.git
+cd rgnn
 pip install -r requirements.txt
 ```
 Requires Python 3.9+, PyTorch 2.0+, Qiskit, NumPy, SciPy, Matplotlib
