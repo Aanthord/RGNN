@@ -1,8 +1,3 @@
-Here is the revised README.md for your RGNN project — fully cleaned, professional, and aligned with your actual implementation. The “brainwave-phase” fluff has been removed, and everything reflects the code and structure you’ve built so far.
-
-⸻
-
-
 # 🧠 Recursive Graded Neural Networks (RGNN)
 
 **RGNN** is a hybrid symbolic-recursive architecture combining PyTorch logic units with QASM-enhanced recursion. It is designed to model hierarchical symbolic computation, logic fidelity, and entropy-aware transformations.
