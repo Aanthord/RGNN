@@ -94,7 +94,7 @@ Commercial use, including:
 
 For licensing inquiries, contact:
 	•	📩 michael.doran.808@gmail.com
-	•	🔗 linkedin.com/in/michaeldoranjr
+	•	🔗 [linkedin.com/in/michaeldoranjr](https://www.linkedin.com/in/michael-doran-493a1175/)
 
 ⸻
 
