@@ -16,25 +16,6 @@ This system bridges classical machine learning with symbolic reasoning and recur
 - 🧬 Supports symbolic tasks (SAT/NP, tree validation, etc.)
 - ⚙️ Hooks for future RSSN + FTC operator injection
 
----
-
-## 📁 Project Structure
-
-rgnn/
-├── core.py                # Core RGNN model
-├── recursive_unit.py      # Recursive logic block (RU)
-├── qasm_bridge.py         # QASM symbolic logic interface
-├── quantum_utils.py       # UUID, Merkle, entropy tools
-├── config.py              # Hyperparameters and config
-├── data_loader.py         # Dataset and symbolic encoders
-├── train.py               # Training entry
-├── loss.py                # Loss functions
-├── metrics.py             # Entropy, fidelity, collapse
-├── main.py                # Entrypoint script
-├── init.py
-├── README.md
-
----
 
 ## 🛠️ Installation
 
